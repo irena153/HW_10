@@ -1,0 +1,69 @@
+    1  help cd
+    2  git --version
+    3   -c && rm ~/.bash_history
+    4  cd
+    5  help cd
+    6  cd papka
+    7  cd  -c && rm ~/.bash_history
+    8  papka  -c && rm ~/.bash_history
+    9  man cd
+   10  help cd
+   11  cd
+   12  cd papka
+   13  cd /documents
+   14  cd /Users
+   15  cdmod <w> <papka>
+   16  cdmod w papka
+   17  help cd
+   18  cd /Users/irenna/Desktop
+   19  cd /Users/irenna/Desktop/papka
+   20  cd /Users/irenna/Desktop/papka
+   21  git clone https://github.com/irena153/papka.git
+   22  git clone https://github.com/irena153/papka.git
+   23  cd /Users/irenna/Desktop/papka
+   24  cd HW_10
+   25  cd /Users/irenna/Desktop/nepapka
+   26  cd HW_10
+   27  cd /Users/irenna/Desktop/nepapka/HW_10
+   28  cd /Users/irenna/Desktop/nepapka/papka
+   29  touch text_ignore.txt
+   30  nano .gitignore
+   31  git status
+   32  git add .gitignore
+   33  git commit
+   34  cd /Users/irenna/Desktop/nepapka
+   35  touch text_ignore.txt
+   36  cd /Users/irenna/Desktop/nepapka
+   37  cd /Users/irenna/Desktop/nepapka/papka
+   38  touch text_ignore.txt
+   39  nano .gitignore
+   40  git status
+   41  cd /Users/irenna/Desktop/okno
+   42  git clone https://github.com/irena153/HW_10
+   43  cd /Users/irenna/Desktop/okno/HW_10
+   44  touch text_ignore.txt
+   45  nano .gitignore
+   46  git status
+   47  git add
+   48  git add.
+   49  git add .new
+   50  git add text_ignore.txt
+   51  git add new.txt
+   52  git commit -m aaa
+   53  git add .
+   54  touch main_test.txt
+   55  git add .
+   56  branch develop
+   57  git branch develop
+   58  git checkout branch_develop
+   59  git checkout branch develop
+   60  git checkout develop
+   61  git touch develop_test.txt
+   62  touch develop_test.txt
+   63  git add .
+   64  nano develop_test.txt file
+   65  git status
+   66  git add .
+   67  git checkout main
+   68  git merge develop
+   69  git log
